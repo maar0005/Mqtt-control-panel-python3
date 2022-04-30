@@ -25,3 +25,4 @@ class Motion:
             # elif self._ui.backlight_on:
             self._ui.off()
 
+
