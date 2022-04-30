@@ -19,3 +19,4 @@ class StatusLine:
         # Draw the label
         label = self.ui.render_text(self.message, self.color)
         self.ui.blit(label, self.rect)
+
